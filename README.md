@@ -45,9 +45,10 @@ https://www.hallym.ac.kr
 |<span style="color:red">GIT</span>|A+|
 
 --------------------------
-
-![git hub page](hallym.png)
-
-
+마크다운에서 이미지 표현
+![hallym logo](hallym.png)
+---------------------------
+태그 이용 속성 변경
+<img src = hallym.png width=100 height=100>
 
 
