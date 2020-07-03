@@ -19,14 +19,15 @@
 + 깃허브에 이력서 만들기
 ------------------------
 추천 사이트  
-www.hallym.ac.kr
+http://www.hallym.ac.kr
 ------------------------
-추천 사이트  
-[한림대학교](www.hallym.ac.kr)
+추천 사이트  - 인라인 링크 : 한글로 알아보기 쉽다
+[한림대학교](http://www.hallym.ac.kr)
 ---------------------------
-<a href =www.hallym.ac.kr>한림대학교</a>
+<a href =http://www.hallym.ac.kr>한림대학교</a>
 -------------------------
-[hallym]:www.hallym.ac.kr
+참조 링크 - 주소 목록을 별도로 관리할 수 있다
+[hallym]:http://www.hallym.ac.kr
 
 [한림][hallym]
 ------------------------
