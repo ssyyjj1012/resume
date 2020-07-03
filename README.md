@@ -46,7 +46,7 @@ https://www.hallym.ac.kr
 
 --------------------------
 
-![git hub page](hallym.PNG)
+![git hub page](hallym.png)
 
 
 
