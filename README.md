@@ -42,7 +42,7 @@ html형식 하이퍼링크 참조
 
 |과목명|점수|
 |---|---|
-|<span style="color:red">GIT</font>|A+|
+|<span style="color:red">GIT</span>|A+|
 
 --------------------------
 
